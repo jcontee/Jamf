@@ -1,0 +1,2 @@
+sudo jamf removeMdmprofile
+sudo jamf removeFramework
